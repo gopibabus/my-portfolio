@@ -40,4 +40,8 @@ $(function() {
   for (var index in jobItems) {
     document.getElementById(`${index}`).innerHTML = `${jobItems[index]}`;
   }
+    
+    const disney_points = [
+        'xxxx', 'cccccc'
+    ];
 });
