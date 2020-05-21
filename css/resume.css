@@ -183,3 +183,19 @@ b:hover {
 	cursor: pointer;
 	text-decoration: none;
 }
+
+button.btn {
+	background: #484c7f;
+	color: #fff;
+}
+
+button.btn:hover {
+	color: #484c7f;
+	background: #fff;
+	border-color:#484c7f;
+}
+
+.modal-lg {
+  width: 750px;
+  margin: auto;
+}

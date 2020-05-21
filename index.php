@@ -24,6 +24,7 @@
     <!-- Certifications -->
     <?php include_once __DIR__ . '/templates/certifications.php'; ?>
 </div>
+<?php include_once __DIR__ . '/templates/job_description.php'; ?>
 
 <!-- Footer -->
 <?php include_once __DIR__ . '/templates/footer.php'; ?>
