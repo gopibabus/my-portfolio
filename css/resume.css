@@ -165,9 +165,21 @@ section.resume-section .resume-item .resume-date {
 
 a {
 	color: #484c7f;
+	text-decoration: none;
 }
 a:hover,
 a:focus,
 a:active {
 	color: #010059;
+	text-decoration: none;
+}
+
+b {
+	color: #484c7f;
+	text-decoration: none;
+}
+
+b:hover {
+	cursor: pointer;
+	text-decoration: none;
 }
