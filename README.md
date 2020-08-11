@@ -1,3 +1,3 @@
-# My Online Portfolio
+![My Online Portfolio](./img/banner.png)
 
-> Name : Gopibabu Srungavarapu
+> 🎯 This is my online portfolio project. This project will showcase my skillset and experience in web application development.
